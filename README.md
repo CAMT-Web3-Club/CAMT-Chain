@@ -1,2 +1,2 @@
 # CAMT-Blockchain-network
-Backbone Blockchain-Network
+Backbone Proof-of-Authority (PoA) Blockchain-Network
